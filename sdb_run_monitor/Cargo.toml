@@ -1,0 +1,11 @@
+[package]
+name = "sdb_run_monitor_file"
+version = "0.1.0"
+authors = ["Tarun Jaiswal <tarun.j@surya-soft.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0.82"
+serde_json = "1.0.33"
+serde_derive = "1.0.82"
+fs2 = "0.4.3"
